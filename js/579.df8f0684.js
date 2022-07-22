@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkbootstrap"]=self["webpackChunkbootstrap"]||[]).push([[579],{579:function(t,n,r){r.r(n),r.d(n,{default:function(){return i}});var e=r(3396);const c={class:"container text-center"};function o(t,n,r,o,s,u){const a=(0,e.up)("router-view");return(0,e.wg)(),(0,e.iD)("div",c,[(0,e.Wm)(a)])}var s={},u=r(89);const a=(0,u.Z)(s,[["render",o]]);var i=a}}]);
+//# sourceMappingURL=579.df8f0684.js.map

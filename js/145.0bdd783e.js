@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkbootstrap"]=self["webpackChunkbootstrap"]||[]).push([[145],{3145:function(r,s,t){t.r(s),t.d(s,{default:function(){return d}});var e=t(3396);const n={class:"contener"},a=(0,e._)("div",{class:"row"},[(0,e._)("div",{class:"col"},[(0,e._)("div",{class:"alert alert-secondary",role:"alert"},[(0,e._)("h4",null," صفحه اصلی ")])])],-1),c=[a];function l(r,s,t,a,l,o){return(0,e.wg)(),(0,e.iD)("div",n,c)}var o={},u=t(89);const i=(0,u.Z)(o,[["render",l]]);var d=i}}]);
+//# sourceMappingURL=145.0bdd783e.js.map
